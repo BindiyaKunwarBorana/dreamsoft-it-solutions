@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-Click to visit website: https://bindiyakunwarborana.github.io/dreamsoft-it-solutions/
+Click to visit website: http://localhost:3000 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
